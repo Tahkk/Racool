@@ -1,0 +1,30 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a93105d6-9a7f-441e-8fdb-12a520d7c448")
+	(paper "A4")
+	(lib_symbols)
+	(global_label "3.3V"
+		(shape input)
+		(at 95.25 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a174be09-8146-4fc2-a543-7d655054c9aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.3476 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+)

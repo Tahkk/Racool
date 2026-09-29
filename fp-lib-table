@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GT-USB-7004")(type "KiCad")(uri "A:/Documents/KiCad/ul_GT-USB-7004/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "VBUS05L1-DD1-G-08")(type "KiCad")(uri "A:/Documents/KiCad/ul_VBUS05L1-DD1-G-08/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "BME680")(type "KiCad")(uri "A:/Documents/KiCad/ul_VBUS05L1-DD1-G-08/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SiT8008AI")(type "KiCad")(uri "A:/Documents/KiCad/ul_SIT8008AI-22-33S-50-000000G/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "BGT60TR13C")(type "KiCad")(uri "A:/Documents/KiCad/ul_BGT60TR13CE6327XUMA1/KiCad")(options "")(descr ""))
+  (lib (name "LTC3407")(type "KiCad")(uri "A:/Documents/KiCad/ul_LTC3407AEDD-PBF/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LP5910")(type "KiCad")(uri "A:/Documents/KiCad/ul_LP5910-1-8DRVR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LP87524JRNFRQ1")(type "KiCad")(uri "A:/Documents/KiCad/ul_LP87524JRNFRQ1/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

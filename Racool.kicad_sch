@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "61ee0a86-e2a9-4ea3-aa46-f02aa48a65f9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 132.08 48.26)
+		(size 68.58 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "770e3f31-8d3e-4082-a7b3-ee8ec7627328")
+		(property "Sheetname" "ESP32"
+			(at 132.08 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 132.08 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Racool"
+				(path "/61ee0a86-e2a9-4ea3-aa46-f02aa48a65f9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 26.67 49.53)
+		(size 69.85 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "790bb03a-a6b3-4b09-b48a-677debb400b4")
+		(property "Sheetname" "Power"
+			(at 26.67 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 26.67 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Racool"
+				(path "/61ee0a86-e2a9-4ea3-aa46-f02aa48a65f9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 113.03)
+		(size 78.74 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7aad8645-2c01-4940-87d4-df648f215b00")
+		(property "Sheetname" "Env Sensor"
+			(at 25.4 112.3184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Temp.kicad_sch"
+			(at 25.4 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Racool"
+				(path "/61ee0a86-e2a9-4ea3-aa46-f02aa48a65f9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 114.3)
+		(size 66.04 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ea902364-a52e-408c-b931-3ba4866e76a2")
+		(property "Sheetname" "Radar"
+			(at 134.62 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Radar.kicad_sch"
+			(at 134.62 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Racool"
+				(path "/61ee0a86-e2a9-4ea3-aa46-f02aa48a65f9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
